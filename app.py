@@ -11,7 +11,7 @@ st.set_page_config(layout="wide", page_title="Wearable ECG Streaming Demo (gdown
 # ================
 # Google Drive IDs (keep these as-is)
 # ================
-MODEL_DRIVE_ID = "1iEWlaP-XB30Rxwyz8wIYcfvO_hW5PR7a"
+MODEL_DRIVE_ID = "12daI3A_Ff8819mpAZl-pm4nfGgSC9r00"
 DATA_DRIVE_ID  = "1AdLKeXQI8pz2cyaK33gwpPcwJYvrebVL"
 MODEL_PATH = "afdb_ecg_cnn.h5"
 DATA_PATH  = "test_data.pkl"
