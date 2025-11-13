@@ -1,0 +1,6 @@
+# ignore model and data files
+afdb_ecg_cnn.h5
+test_data.pkl
+__pycache__/
+*.pyc
+.env
